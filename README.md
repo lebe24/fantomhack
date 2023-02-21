@@ -1,0 +1,2 @@
+# fantomhack
+fantom hackathon project
